@@ -1,4 +1,4 @@
-# cafe-website-2
+# CAFE Website
 
 The learning from creating this Cafe Menu site was to improve my HTML and specifically CSS skills.
 
